@@ -1,0 +1,34 @@
+
+
+1)git clone https://github.com/Prathamesh412/Resume.git 
+
+we clone the file from the cloud..we will get .git folder in the folder where we have copied
+The file is hidden
+
+2)git status
+we put into the repository of git..we can check the files wheteher they are 
+tracked or untracked..untracked not yet ready to be pushed into repo
+
+3)git add web_dev/ 
+
+ we have to add the files into the cloud to be staged ie add the files to be commited.
+
+4)git commit -m "name of commit"
+
+If we are going for first commit will have to check for user name
+and email.
+
+5)git status
+Here we can checked for working directory
+
+6)git push origin master
+Here we have to put the username and password of git account
+..Prathamesh412 and the password for github
+
+7)when we have to add new team mates we have to go to + sign at 
+topmost right and click on new collaborators.we can add with the
+ help of  username of the person.
+
+8) Git pull origin master
+
+This command is used to pull the files from online repo.
